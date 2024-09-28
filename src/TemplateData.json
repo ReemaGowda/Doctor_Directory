@@ -1,0 +1,41 @@
+[
+    {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "image" : "https://cdn.pixabay.com/photo/2017/01/31/22/32/doctor-2027768_640.png",
+    "specialty": "Cardiology",
+    "location": "New York, NY",
+    "rating": 4.8,
+    "phone": "(123) 456-7890",
+    "email": "johndoe@example.com"
+    },
+    {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "image" : "https://png.pngtree.com/element_our/20190528/ourmid/pngtree-cartoon-doctor-hand-painted-female-doctor-png-image_1158135.jpg",
+    "specialty": "Dermatology",
+    "location": "Los Angeles, CA",
+    "rating": 4.7,
+    "phone": "(987) 654-3210",
+    "email": "janesmith@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Robert jack",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZRgcK5yBqagQ1PAp3DVhiDd93NcXTHIvAA&s",
+        "specialty": "General",
+        "location": "Toronto, CA",
+        "rating": 4.7,
+        "phone": "(987) 321-3220",
+        "email": "jan@example.com"
+        },{
+            "id": 4,
+        "name": "Dr. kim",
+        "image": "https://cdn.pixabay.com/photo/2017/01/31/22/06/doctor-2027615_1280.png",
+        "specialty": "General",
+        "location": "Londan, ",
+        "rating": 4.7,
+        "phone": "(956) 321-3220",
+        "email": "kim@example.com"
+        }
+    ]
